@@ -136,6 +136,15 @@
         "hungry"
       ],
       "id": "13"
+    },
+    {
+      "name": "SLothy",
+      "species": "Sloth",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "zany"
+      ],
+      "id": "14"
     }
   ]
 }
